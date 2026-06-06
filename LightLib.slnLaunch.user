@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "LightLib.Web\\LightLib.Web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
